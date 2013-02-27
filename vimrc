@@ -1,4 +1,4 @@
-syntax
+syntax on
 set background=dark
 
 set showcmd
