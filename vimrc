@@ -1,10 +1,11 @@
+syntax
 set background=dark
 
 set showcmd
 set showmatch
 set ignorecase
-set et
-set nu
+set expandtab
+set number
 set shiftwidth=4
 set tabstop=4
 set title
