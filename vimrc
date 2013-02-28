@@ -13,3 +13,4 @@ set ruler
 set incsearch
 set hlsearch
 set copyindent
+set smartindent
